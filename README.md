@@ -66,7 +66,7 @@ plt.title('Budget vs Worldwide Gross')
 plt.show()
 ```
 
-![Scatter Plot](output_image_1.png)
+![Scatter Plot](https://github.com/Abdulwaashim/Highest_Grossing_films-Web_scraping_Project-Data_analysis/blob/main/Output/img-01.png)
 
 
 ### Highest Grossing Movies Over the Years
@@ -80,7 +80,7 @@ plt.xticks(rotation=45)
 plt.show()
 ```
 
-![Line Chart](output_image_3.png)
+![Line Chart]()
 
 ### Count of Highest Grossing Movies by Decade
 ```python
@@ -93,7 +93,7 @@ plt.title('Count of Highest Grossing Movies by Decade')
 plt.show()
 ```
 
-![Decade Count](output_image_4.png)
+![Decade Count](https://github.com/Abdulwaashim/Highest_Grossing_films-Web_scraping_Project-Data_analysis/blob/main/Output/img-04.png)
 
 ### Top 10 Most Profitable Movies
 ```python
@@ -107,7 +107,7 @@ plt.title('Top 10 Most Profitable Movies')
 plt.show()
 ```
 
-![Profit Bar Chart](output_image_5.png)
+![Profit Bar Chart](https://github.com/Abdulwaashim/Highest_Grossing_films-Web_scraping_Project-Data_analysis/blob/main/Output/img-05.png)
 
 ### Inflation-Adjusted Gross of Highest-Grossing Films
 ```python
@@ -122,7 +122,7 @@ plt.xticks(rotation=45)
 plt.show()
 ```
 
-![Inflation-Adjusted Gross](output_image_6.png)
+![Inflation-Adjusted Gross](https://github.com/Abdulwaashim/Highest_Grossing_films-Web_scraping_Project-Data_analysis/blob/main/Output/img-06.png)
 
 ### Average Return on Investment per Decade
 ```python
@@ -136,7 +136,7 @@ plt.title('Average Return on Investment per Decade')
 plt.show()
 ```
 
-![ROI Chart](output_image_7.png)
+![ROI Chart](https://github.com/Abdulwaashim/Highest_Grossing_films-Web_scraping_Project-Data_analysis/blob/main/Output/img-07.png)
 
 ## Key Insights & Recommendations
 1. **Increasing Budget Can Improve Revenue**: Movies with higher budgets tend to have higher worldwide gross revenue.
