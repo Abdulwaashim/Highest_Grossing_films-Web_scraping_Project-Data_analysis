@@ -68,18 +68,6 @@ plt.show()
 
 ![Scatter Plot](output_image_1.png)
 
-### Top 10 Highest-Grossing Movies
-```python
-top_movies = df.sort_values(by='Worldwide Gross', ascending=False).head(10)
-plt.figure(figsize=(12, 6))
-sns.barplot(y=top_movies['Title'], x=top_movies['Worldwide Gross'], palette='coolwarm')
-plt.xlabel('Worldwide Gross')
-plt.ylabel('Movie Title')
-plt.title('Top 10 Highest-Grossing Movies')
-plt.show()
-```
-
-![Bar Chart](output_image_2.png)
 
 ### Highest Grossing Movies Over the Years
 ```python
